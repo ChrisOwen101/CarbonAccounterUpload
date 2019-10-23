@@ -1,7 +1,7 @@
 {
   "name": "carbon-accounter-upload",
   "version": "0.1.0",
-  "homepage": "http://chrisowen101.github.io/carbonaccounterupload",
+  "homepage": "https://chrisowen101.github.io/CarbonAccounterUpload/",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
